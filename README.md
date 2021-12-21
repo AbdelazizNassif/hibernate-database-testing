@@ -7,7 +7,7 @@ watch this tutorial https://www.youtube.com/playlist?list=PLEAQNNR8IlB7fNkRsUgzr
 
 What is hibernate?
 
-- It's a freamework for saving or retreiving java object from a database.
+- It's a freamework for saving or retreiving java objects from a database.
 
 Benifits of hibernate:
 
@@ -15,3 +15,4 @@ Benifits of hibernate:
 - Hibernate will do all the low level work of (doing the query, getting the actual data, constructing the object and returning back to the code).
 - Hibernate provides Object-To-Relational (ORM) mapping.
 - Java objects will map tables in the database.
+- Hibernate uses JDBC in the background for any database interaction.
