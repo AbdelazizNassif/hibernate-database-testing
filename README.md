@@ -13,6 +13,6 @@ Benifits of hibernate:
 
 - hibernate handles all of the low level sql interaction. so, it minimizes the ampunt of JDBC code.
 - Hibernate will do all the low level work of (doing the query, getting the actual data, constructing the object and returning back to the code).
-- Hibernate provides Object-To-Relational (ORM) mapping.
+- Hibernate provides Object-To-Relational-Mapping (ORM) .
 - Java objects will map tables in the database.
 - Hibernate uses JDBC in the background for any database interaction.
